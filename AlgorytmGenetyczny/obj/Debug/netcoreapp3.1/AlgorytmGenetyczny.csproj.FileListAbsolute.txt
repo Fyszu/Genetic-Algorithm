@@ -1,0 +1,15 @@
+D:\Moje\Różne\OneDrive\Szkoła\Semestr 4\Sztuczna inteligencja\Projekt\AG\AlgorytmGenetyczny\AlgorytmGenetyczny\bin\Debug\netcoreapp3.1\AlgorytmGenetyczny.exe
+D:\Moje\Różne\OneDrive\Szkoła\Semestr 4\Sztuczna inteligencja\Projekt\AG\AlgorytmGenetyczny\AlgorytmGenetyczny\bin\Debug\netcoreapp3.1\AlgorytmGenetyczny.deps.json
+D:\Moje\Różne\OneDrive\Szkoła\Semestr 4\Sztuczna inteligencja\Projekt\AG\AlgorytmGenetyczny\AlgorytmGenetyczny\bin\Debug\netcoreapp3.1\AlgorytmGenetyczny.runtimeconfig.json
+D:\Moje\Różne\OneDrive\Szkoła\Semestr 4\Sztuczna inteligencja\Projekt\AG\AlgorytmGenetyczny\AlgorytmGenetyczny\bin\Debug\netcoreapp3.1\AlgorytmGenetyczny.runtimeconfig.dev.json
+D:\Moje\Różne\OneDrive\Szkoła\Semestr 4\Sztuczna inteligencja\Projekt\AG\AlgorytmGenetyczny\AlgorytmGenetyczny\bin\Debug\netcoreapp3.1\AlgorytmGenetyczny.dll
+D:\Moje\Różne\OneDrive\Szkoła\Semestr 4\Sztuczna inteligencja\Projekt\AG\AlgorytmGenetyczny\AlgorytmGenetyczny\bin\Debug\netcoreapp3.1\AlgorytmGenetyczny.pdb
+D:\Moje\Różne\OneDrive\Szkoła\Semestr 4\Sztuczna inteligencja\Projekt\AG\AlgorytmGenetyczny\AlgorytmGenetyczny\bin\Debug\netcoreapp3.1\GAF.Core.20.dll
+D:\Moje\Różne\OneDrive\Szkoła\Semestr 4\Sztuczna inteligencja\Projekt\AG\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\netcoreapp3.1\AlgorytmGenetyczny.csprojAssemblyReference.cache
+D:\Moje\Różne\OneDrive\Szkoła\Semestr 4\Sztuczna inteligencja\Projekt\AG\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\netcoreapp3.1\AlgorytmGenetyczny.AssemblyInfoInputs.cache
+D:\Moje\Różne\OneDrive\Szkoła\Semestr 4\Sztuczna inteligencja\Projekt\AG\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\netcoreapp3.1\AlgorytmGenetyczny.AssemblyInfo.cs
+D:\Moje\Różne\OneDrive\Szkoła\Semestr 4\Sztuczna inteligencja\Projekt\AG\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\netcoreapp3.1\AlgorytmGenetyczny.csproj.CoreCompileInputs.cache
+D:\Moje\Różne\OneDrive\Szkoła\Semestr 4\Sztuczna inteligencja\Projekt\AG\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\netcoreapp3.1\AlgorytmGenetyczny.csproj.CopyComplete
+D:\Moje\Różne\OneDrive\Szkoła\Semestr 4\Sztuczna inteligencja\Projekt\AG\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\netcoreapp3.1\AlgorytmGenetyczny.dll
+D:\Moje\Różne\OneDrive\Szkoła\Semestr 4\Sztuczna inteligencja\Projekt\AG\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\netcoreapp3.1\AlgorytmGenetyczny.pdb
+D:\Moje\Różne\OneDrive\Szkoła\Semestr 4\Sztuczna inteligencja\Projekt\AG\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\netcoreapp3.1\AlgorytmGenetyczny.genruntimeconfig.cache

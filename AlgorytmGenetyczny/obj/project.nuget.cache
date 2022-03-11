@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AAHYbIkugKdJDL0y2TAw3JG9+F6mm2Tm3Ll9gAcxRhF6k1Rz3Ak6fFVKd513mY7Gn4hvCCaUhq22RUsdEJXMVg==",
+  "success": true,
+  "projectFilePath": "D:\\Moje\\Różne\\OneDrive\\Szkoła\\Semestr 4\\Semestr 4\\Semestr 4\\Sztuczna inteligencja\\Projekt\\AG\\AlgorytmGenetyczny\\AlgorytmGenetyczny\\AlgorytmGenetyczny.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fyszu\\.nuget\\packages\\gaf\\2.3.1\\gaf.2.3.1.nupkg.sha512",
+    "C:\\Users\\fyszu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

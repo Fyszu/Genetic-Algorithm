@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Moje\\Różne\\OneDrive\\Szkoła\\Semestr 4\\Semestr 4\\Semestr 4\\Sztuczna inteligencja\\Projekt\\AG\\AlgorytmGenetyczny\\AlgorytmGenetyczny\\AlgorytmGenetyczny.csproj": {}
+  },
+  "projects": {
+    "D:\\Moje\\Różne\\OneDrive\\Szkoła\\Semestr 4\\Semestr 4\\Semestr 4\\Sztuczna inteligencja\\Projekt\\AG\\AlgorytmGenetyczny\\AlgorytmGenetyczny\\AlgorytmGenetyczny.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Moje\\Różne\\OneDrive\\Szkoła\\Semestr 4\\Semestr 4\\Semestr 4\\Sztuczna inteligencja\\Projekt\\AG\\AlgorytmGenetyczny\\AlgorytmGenetyczny\\AlgorytmGenetyczny.csproj",
+        "projectName": "AlgorytmGenetyczny",
+        "projectPath": "D:\\Moje\\Różne\\OneDrive\\Szkoła\\Semestr 4\\Semestr 4\\Semestr 4\\Sztuczna inteligencja\\Projekt\\AG\\AlgorytmGenetyczny\\AlgorytmGenetyczny\\AlgorytmGenetyczny.csproj",
+        "packagesPath": "C:\\Users\\fyszu\\.nuget\\packages\\",
+        "outputPath": "D:\\Moje\\Różne\\OneDrive\\Szkoła\\Semestr 4\\Semestr 4\\Semestr 4\\Sztuczna inteligencja\\Projekt\\AG\\AlgorytmGenetyczny\\AlgorytmGenetyczny\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Moje\\Programowanie\\VSContent\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fyszu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "GAF": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.21, 3.1.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.22055.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
